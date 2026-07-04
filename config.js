@@ -16,6 +16,6 @@
    shows the success screen but does not save anything.
    ========================================================================= */
 window.CHT_CONFIG = {
-  SUPABASE_URL: 'YOUR_SUPABASE_URL',
-  SUPABASE_ANON_KEY: 'YOUR_SUPABASE_ANON_KEY',
+  SUPABASE_URL: 'https://rbtdoikfaouxhleimakd.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_GOjkF69Y3R4TPLL1JtdwZA_qaCrcS1u',
 };
