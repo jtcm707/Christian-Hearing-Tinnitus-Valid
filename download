@@ -1,0 +1,8 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+
+# Note: config.js is intentionally committed.
+# It holds only the PUBLIC Supabase URL + anon key, which are safe to expose.
+# Never add the Supabase service_role key to this repo.
